@@ -1,0 +1,26 @@
+   p{
+    margin:0px;
+   }
+   #first{
+        background-color: cadetblue;
+        height: 200px;
+        width: 200px;
+        border:10px solid black;
+        padding:20px;
+        }
+        #second{
+        margin-left: 260px;
+        height: 200px;
+        width: 200px;
+        background-color: gold;
+        border:10px solid black;
+
+        }
+        #third{
+            margin-left:40px;
+            background-color: indianred ;
+            height: 200px;
+            width: 200px;
+            border:10px solid black;
+        }
+      
